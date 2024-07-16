@@ -10,12 +10,12 @@
     </div>
   </div>
   <div class="row mb-3">
-    <label for="county" class="col-lg-4 col-form-label">Select county:</label>
+    <label for="metro" class="col-lg-4 col-form-label">Select metro:</label>
     <div class="col-lg-8">
-      <select id="county" class="form-select">
-        <option value="">Select county</option>
+      <select id="metro" class="form-select">
+        <option value="">Select metro</option>
       </select>
-      <div class="invalid-feedback">Please select a county.</div>
+      <div class="invalid-feedback">Please select a metro.</div>
     </div>
   </div>
   <div class="row mb-3">
@@ -61,8 +61,8 @@
       </div>
       <div class="modal-body fs-5">
         <p>
-          In <span id="modal-year" class="fw-bold text-warning"></span>, <span id="modal-county" class="fw-bold text-warning"></span>
-          <span class="fw-bold text-warning">County</span> had
+          In <span id="modal-year" class="fw-bold text-warning"></span>, <span id="modal-metro" class="fw-bold text-warning"></span>
+          <span class="fw-bold text-warning">metro</span> had
           <span id="modal-lane-miles" class="fw-bold text-warning"></span> lane miles of
           <span id="modal-facility-type" class="fw-bold text-warning"></span> and an initial VMT of
           <span id="modal-vmt" class="fw-bold text-warning"></span>. An increase in lane miles of
@@ -87,7 +87,7 @@
       </div>
       <div class="modal-body fs-5">
         <p>
-          There are no results for this combination of year, county, and facility type. Try some different inputs.
+          There are no results for this combination of year, metro, and facility type. Try some different inputs.
         </p>
       </div>
       <div class="modal-footer">
@@ -107,7 +107,7 @@
 
   const yearInput = document.getElementById("year") as HTMLInputElement;
   const facilityTypeInput = document.getElementById("facility-type") as HTMLInputElement;
-  const countyInput = document.getElementById("county") as HTMLInputElement;
+  const metroInput = document.getElementById("metro") as HTMLInputElement;
   const laneMilesIncreaseInput = document.getElementById("lane-miles-increase") as HTMLInputElement;
   const vmtIncreaseInput = document.getElementById("vmt-increase") as HTMLInputElement;
   const travelBackCalc = document.getElementById("travel-back-calculator") as HTMLFormElement;
@@ -123,7 +123,7 @@
   });
 
   interface DataEntry {
-    county: string;
+    metro: string;
     year: number;
     facilityType: string;
     vmt: number;
@@ -158,14 +158,14 @@
   function calculateImpliedElasticity() {
     const year = parseInt(yearInput.value);
     const facilityType = facilityTypeInput.value;
-    const county = countyInput.value;
+    const metro = metroInput.value;
     const laneMilesIncrease = parseFloat(laneMilesIncreaseInput.value);
     const vmtIncrease = parseFloat(vmtIncreaseInput.value);
 
     const resultRow = data.find((row) => (
       row.year === year &&
       row.facilityType === facilityType &&
-      row.county === county
+      row.metro === metro
     ));
 
     if (!resultRow) {
@@ -185,8 +185,8 @@
     const yearSpan = document.getElementById("modal-year")!;
     yearSpan.innerText = String(year);
 
-    const countySpan = document.getElementById("modal-county")!;
-    countySpan.innerText = county;
+    const metroSpan = document.getElementById("modal-metro")!;
+    metroSpan.innerText = metro;
 
     const laneMilesSpan = document.getElementById("modal-lane-miles")!;
     laneMilesSpan.innerText = nf.format(laneMiles);
@@ -227,7 +227,7 @@
 
     if (!yearInput.value) elements.push(yearInput);
     if (!facilityTypeInput.value) elements.push(facilityTypeInput);
-    if (!countyInput.value) elements.push(countyInput);
+    if (!metroInput.value) elements.push(metroInput);
 
     const laneMilesIncrease = parseFloat(laneMilesIncreaseInput.value);
     if (isNaN(laneMilesIncrease) || laneMilesIncrease <= 0)
@@ -243,14 +243,14 @@
   function markInputsAsValid() {
     yearInput.classList.remove(invalidClass);
     facilityTypeInput.classList.remove(invalidClass);
-    countyInput.classList.remove(invalidClass);
+    metroInput.classList.remove(invalidClass);
     laneMilesIncreaseInput.classList.remove(invalidClass);
     vmtIncreaseInput.classList.remove(invalidClass);
   }
 
   function setupForm() {
     populateYearOptions();
-    populateCountyOptions();
+    populatemetroOptions();
     populateFacilityTypeOptions();
   }
 
@@ -267,16 +267,16 @@
     }
   }
 
-  function populateCountyOptions() {
-    const counties = data.map((row) => row.county);
+  function populatemetroOptions() {
+    const counties = data.map((row) => row.metro);
 
     const uniqueCounties = [...new Set(counties)];
     uniqueCounties.sort();
     
-    for (const county of uniqueCounties) {
+    for (const metro of uniqueCounties) {
       const option = document.createElement("option");
-      option.innerText = String(county);
-      countyInput.appendChild(option);
+      option.innerText = String(metro);
+      metroInput.appendChild(option);
     }
   }
 
