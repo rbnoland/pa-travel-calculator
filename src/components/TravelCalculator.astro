@@ -94,7 +94,7 @@
             id="modal-min-co2"
             class="fw-bold text-warning"></span> to
           <span id="modal-max-co2" class="fw-bold text-warning"></span> metric tons
-          of CO<sub>2</sub> emissions each year.
+          of CO<sub>2</sub> equivalent emissions each year.
         </p>
       </div>
       <div class="modal-footer">
@@ -264,12 +264,12 @@
 
     const minCO2Span = document.getElementById("modal-min-co2")!;
     minCO2Span.innerText = nf.format(
-      Math.round((483.2 * minMilesAdded) / 1000000.0),
+      Math.round((492.1 * minMilesAdded) / 1000000.0),
     );
 
     const maxCO2Span = document.getElementById("modal-max-co2")!;
     maxCO2Span.innerText = nf.format(
-      Math.round((483.2 * maxMilesAdded) / 1000000.0),
+      Math.round((492.1 * maxMilesAdded) / 1000000.0),
     );
 
     showResultsModal();
