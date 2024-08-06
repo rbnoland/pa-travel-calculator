@@ -13,6 +13,9 @@ import Section from "../components/Section.astro";
     caption-side: top;
     text-align: center;
   }
+  .indent {
+  margin-left: 40px; /* Adjust the value to control the indentation */
+  }
   img {
     display: block;
     width: 70%;
@@ -47,11 +50,11 @@ import Section from "../components/Section.astro";
     </p>
     <p>
       We combined some of the road classifications to minimize those
-      instances in which there were zero road miles. A shortcoming of New
-      Pennsylvania's is that we do not have lane mileage data, only road
+      instances in which there were zero road miles. A shortcoming of 
+      Pennsylvania's data is that we do not have lane mileage data, only road
       mileage (center-line miles). To approximate lane-miles we used FHWA Highway 
       Statistic from 2018 to calculate the ratio of lane-miles to road-miles for each functional classification (ratios were basically unchanged from year to year).
-      This provided us with a conversion factor approximate the lane miles for each functional class. These are shown
+      This provided us with a conversion factor to approximate the lane miles for each functional class. These are shown
       in the table below and represent average state-level one-directional measures
       of the number of lanes for each functional classification.
     </p>
@@ -61,7 +64,9 @@ import Section from "../components/Section.astro";
       There are 67 counties in Pennsylvania and we combined these based on metropolitan statistical areas (MSAs).  Some counties are not included as they are not part of an MSA. 
       For the Philadelphia metroplitan area we only include the five Pennsylvania counties (Philadelphia, Montgomery, Chester, Delaware, and Bucks) omitting that part of the MSA in New Jersey.
       The combinations are as follows:
+      
       </p>
+      <div class="indent">
       <p><strong>Allentown-Bethlehem-East Stroudsburg:</strong> Carbon, Lehigh, Monroe, Northampton</p>
       <p><strong>Altoona-Hungtingdon:</strong> Blair, Altoona-Hungtingdon</p>
       <p><strong>Bloomsburg-Berwick-Sunbury:</strong> Columbia, Montour, Northumberland, Snyder, Union</p>
@@ -76,9 +81,11 @@ import Section from "../components/Section.astro";
       <p><strong>State College-Dubois:</strong> Centre, Clearfield</p>
       <p><strong>Williamsport-Lock Haven: </strong>Clinton</p>
 
+    </div>
 
 
-      </p>
+
+      
       <p>
       Our first year of data is 2018 and we will update to the latest year
       available. Caution should be used when analyzing data and interpreting
@@ -98,14 +105,14 @@ import Section from "../components/Section.astro";
       “back-calculator” which allows the estimation of an “implied
       elasticity” based on forecast growth in VMT associated with a capacity
       expansion. This can be thought of as the elasticity implied by any
-      forecasts of travel done by PennDOT or a local agency promoting the
+      forecasts of travel done by the state or a local agency promoting the
       capacity expansion. The assumption often made, is that there is no
       change in VMT attributable to the expansion, despite the evidence for
       induced travel. The user of the calculator is thus able to assess
       whether estimates made in forecasts are reasonable.
     </p>
     <table>
-      <caption>Elasticity estimates used in the calculator</caption>
+      <caption>Lane-mile conversions and elasticity estimates used in the calculator</caption>
       <colgroup>
         <col style="width: 26%" />
         <col style="width: 34%" />
