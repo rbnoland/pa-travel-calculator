@@ -2,260 +2,260 @@ year,metro,facilityType,vmt,laneMiles,minElast,maxElast
 2018,Allentown-Bethlehem-East Stroudsburg,Interstate/Freeway/Expressway,3189228015,826.376,0.7,1
 2018,Allentown-Bethlehem-East Stroudsburg,Minor Arterial,1296687685,1010.016,0.5,0.7
 2018,Allentown-Bethlehem-East Stroudsburg,Collector (Major and Minor),936835645,2216.331,0.5,0.7
-2018,Allentown-Bethlehem-East Stroudsburg,Local,1168996815,9582.4,0.3,0.5
+2018,Allentown-Bethlehem-East Stroudsburg,Local,1168996815,9582.4,0.1,0.3
 2018,Altoona-Huntingdon,Interstate/Freeway/Expressway,421752755,216.24,0.7,1
 2018,Altoona-Huntingdon,Minor Arterial,258874060,387.072,0.5,0.7
 2018,Altoona-Huntingdon,Collector (Major and Minor),248000710,1281.189,0.5,0.7
-2018,Altoona-Huntingdon,Local,184425375,3372.4,0.3,0.5
+2018,Altoona-Huntingdon,Local,184425375,3372.4,0.1,0.3
 2018,Bloomsburg-Berwick-Sunbury,Interstate/Freeway/Expressway,746270605,306.976,0.7,1
 2018,Bloomsburg-Berwick-Sunbury,Minor Arterial,497865110,729.288,0.5,0.7
 2018,Bloomsburg-Berwick-Sunbury,Collector (Major and Minor),376531445,2022.189,0.5,0.7
-2018,Bloomsburg-Berwick-Sunbury,Local,318469435,6614,0.3,0.5
+2018,Bloomsburg-Berwick-Sunbury,Local,318469435,6614,0.1,0.3
 2018,Erie-Meadville,Interstate/Freeway/Expressway,968448660,424.424,0.7,1
 2018,Erie-Meadville,Minor Arterial,693329910,1066.212,0.5,0.7
 2018,Erie-Meadville,Collector (Major and Minor),424782255,2278.328,0.5,0.7
-2018,Erie-Meadville,Local,395678615,6931.8,0.3,0.5
+2018,Erie-Meadville,Local,395678615,6931.8,0.1,0.3
 2018,Harrisburg-York-Lebanon,Interstate/Freeway/Expressway,4755525140,1267.336,0.7,1
 2018,Harrisburg-York-Lebanon,Minor Arterial,1869585845,1774.332,0.5,0.7
 2018,Harrisburg-York-Lebanon,Collector (Major and Minor),1793918790,4515.901,0.5,0.7
-2018,Harrisburg-York-Lebanon,Local,1318333280,16534.8,0.3,0.5
+2018,Harrisburg-York-Lebanon,Local,1318333280,16534.8,0.1,0.3
 2018,Johnston-Somerset,Interstate/Freeway/Expressway,711696710,455.8,0.7,1
 2018,Johnston-Somerset,Minor Arterial,265654665,560.952,0.5,0.7
 2018,Johnston-Somerset,Collector (Major and Minor),371635700,2050.594,0.5,0.7
-2018,Johnston-Somerset,Local,291870425,5414.6,0.3,0.5
+2018,Johnston-Somerset,Local,291870425,5414.6,0.1,0.3
 2018,Lancaster,Interstate/Freeway/Expressway,1531047615,362.096,0.7,1
 2018,Lancaster,Minor Arterial,1075221745,734.58,0.5,0.7
 2018,Lancaster,Collector (Major and Minor),799965755,1707.017,0.5,0.7
-2018,Lancaster,Local,620148870,5483.6,0.3,0.5
+2018,Lancaster,Local,620148870,5483.6,0.1,0.3
 2018,Philadelphia,Interstate/Freeway/Expressway,8708078750,1415.736,0.7,1
 2018,Philadelphia,Minor Arterial,3928197160,2897.748,0.5,0.7
 2018,Philadelphia,Collector (Major and Minor),2768538870,4531.956,0.5,0.7
-2018,Philadelphia,Local,2697674850,22122.2,0.3,0.5
+2018,Philadelphia,Local,2697674850,22122.2,0.1,0.3
 2018,Pittsburgh,Interstate/Freeway/Expressway,6652134490,2414.256,0.7,1
 2018,Pittsburgh,Minor Arterial,3552286580,4408.488,0.5,0.7
 2018,Pittsburgh,Collector (Major and Minor),2367269550,8982.649,0.5,0.7
-2018,Pittsburgh,Local,2811068305,33579.4,0.3,0.5
+2018,Pittsburgh,Local,2811068305,33579.4,0.1,0.3
 2018,Reading,Interstate/Freeway/Expressway,1264360730,374.392,0.7,1
 2018,Reading,Minor Arterial,609832510,510.048,0.5,0.7
 2018,Reading,Collector (Major and Minor),445160570,1272.544,0.5,0.7
-2018,Reading,Local,464850860,4864.4,0.3,0.5
+2018,Reading,Local,464850860,4864.4,0.1,0.3
 2018,Scranton-Wilkes-Barre,Interstate/Freeway/Expressway,1979921695,757.688,0.7,1
 2018,Scranton-Wilkes-Barre,Minor Arterial,922010075,1055.124,0.5,0.7
 2018,Scranton-Wilkes-Barre,Collector (Major and Minor),539644105,1965.873,0.5,0.7
-2018,Scranton-Wilkes-Barre,Local,702853855,6902,0.3,0.5
+2018,Scranton-Wilkes-Barre,Local,702853855,6902,0.1,0.3
 2018,State College-Dubois,Interstate/Freeway/Expressway,1028742645,488.448,0.7,1
 2018,State College-Dubois,Minor Arterial,402464695,609.588,0.5,0.7
 2018,State College-Dubois,Collector (Major and Minor),289088030,1629.706,0.5,0.7
-2018,State College-Dubois,Local,209704910,4629.8,0.3,0.5
+2018,State College-Dubois,Local,209704910,4629.8,0.1,0.3
 2018,Williamsport-Lock Haven,Interstate/Freeway/Expressway,305647715,162.392,0.7,1
 2018,Williamsport-Lock Haven,Minor Arterial,74599795,228.564,0.5,0.7
 2018,Williamsport-Lock Haven,Collector (Major and Minor),63435540,369.759,0.5,0.7
-2018,Williamsport-Lock Haven,Local,48022685,890.2,0.3,0.5
+2018,Williamsport-Lock Haven,Local,48022685,890.2,0.1,0.3
 2019,Allentown-Bethlehem-East Stroudsburg,Interstate/Freeway/Expressway,3264139155,833.584,0.7,1
 2019,Allentown-Bethlehem-East Stroudsburg,Minor Arterial,1304718415,1007.244,0.5,0.7
 2019,Allentown-Bethlehem-East Stroudsburg,Collector (Major and Minor),965260385,2215.837,0.5,0.7
-2019,Allentown-Bethlehem-East Stroudsburg,Local,1180975020,9642.8,0.3,0.5
+2019,Allentown-Bethlehem-East Stroudsburg,Local,1180975020,9642.8,0.1,0.3
 2019,Altoona-Huntingdon,Interstate/Freeway/Expressway,424504490,216.24,0.7,1
 2019,Altoona-Huntingdon,Minor Arterial,256854515,387.072,0.5,0.7
 2019,Altoona-Huntingdon,Collector (Major and Minor),249146810,1281.436,0.5,0.7
-2019,Altoona-Huntingdon,Local,183749395,3375.2,0.3,0.5
+2019,Altoona-Huntingdon,Local,183749395,3375.2,0.1,0.3
 2019,Bloomsburg-Berwick-Sunbury,Interstate/Freeway/Expressway,680135160,307.4,0.7,1
 2019,Bloomsburg-Berwick-Sunbury,Minor Arterial,488395185,729.288,0.5,0.7
 2019,Bloomsburg-Berwick-Sunbury,Collector (Major and Minor),377574615,2020.46,0.5,0.7
-2019,Bloomsburg-Berwick-Sunbury,Local,321344175,6630,0.3,0.5
+2019,Bloomsburg-Berwick-Sunbury,Local,321344175,6630,0.1,0.3
 2019,Erie-Meadville,Interstate/Freeway/Expressway,956254010,424.424,0.7,1
 2019,Erie-Meadville,Minor Arterial,681677650,1040.508,0.5,0.7
 2019,Erie-Meadville,Collector (Major and Minor),438175565,2278.081,0.5,0.7
-2019,Erie-Meadville,Local,409780025,6934.8,0.3,0.5
+2019,Erie-Meadville,Local,409780025,6934.8,0.1,0.3
 2019,Harrisburg-York-Lebanon,Interstate/Freeway/Expressway,4821726285,1267.336,0.7,1
 2019,Harrisburg-York-Lebanon,Minor Arterial,1892142845,1775.844,0.5,0.7
 2019,Harrisburg-York-Lebanon,Collector (Major and Minor),1800016115,4516.148,0.5,0.7
-2019,Harrisburg-York-Lebanon,Local,1327237820,16562.4,0.3,0.5
+2019,Harrisburg-York-Lebanon,Local,1327237820,16562.4,0.1,0.3
 2019,Johnston-Somerset,Interstate/Freeway/Expressway,721913060,457.072,0.7,1
 2019,Johnston-Somerset,Minor Arterial,260653435,561.204,0.5,0.7
 2019,Johnston-Somerset,Collector (Major and Minor),365481800,2050.594,0.5,0.7
-2019,Johnston-Somerset,Local,294023195,5423.2,0.3,0.5
+2019,Johnston-Somerset,Local,294023195,5423.2,0.1,0.3
 2019,Lancaster,Interstate/Freeway/Expressway,1539097690,362.096,0.7,1
 2019,Lancaster,Minor Arterial,1076401790,733.32,0.5,0.7
 2019,Lancaster,Collector (Major and Minor),801874705,1706.276,0.5,0.7
-2019,Lancaster,Local,623618195,5493.8,0.3,0.5
+2019,Lancaster,Local,623618195,5493.8,0.1,0.3
 2019,Philadelphia,Interstate/Freeway/Expressway,8831496930,1418.28,0.7,1
 2019,Philadelphia,Minor Arterial,3914191380,2897.244,0.5,0.7
 2019,Philadelphia,Collector (Major and Minor),2788152510,4531.956,0.5,0.7
-2019,Philadelphia,Local,2712883670,22210.8,0.3,0.5
+2019,Philadelphia,Local,2712883670,22210.8,0.1,0.3
 2019,Pittsburgh,Interstate/Freeway/Expressway,6729907595,2398.144,0.7,1
 2019,Pittsburgh,Minor Arterial,3547185705,4409.748,0.5,0.7
 2019,Pittsburgh,Collector (Major and Minor),2375866030,8981.414,0.5,0.7
-2019,Pittsburgh,Local,2775583005,33628.2,0.3,0.5
+2019,Pittsburgh,Local,2775583005,33628.2,0.1,0.3
 2019,Reading,Interstate/Freeway/Expressway,1326971370,373.968,0.7,1
 2019,Reading,Minor Arterial,610633685,509.796,0.5,0.7
 2019,Reading,Collector (Major and Minor),450866980,1272.544,0.5,0.7
-2019,Reading,Local,464071585,4859.6,0.3,0.5
+2019,Reading,Local,464071585,4859.6,0.1,0.3
 2019,Scranton-Wilkes-Barre,Interstate/Freeway/Expressway,2074828995,759.808,0.7,1
 2019,Scranton-Wilkes-Barre,Minor Arterial,920973475,1056.132,0.5,0.7
 2019,Scranton-Wilkes-Barre,Collector (Major and Minor),542814495,1967.602,0.5,0.7
-2019,Scranton-Wilkes-Barre,Local,708691665,6922.4,0.3,0.5
+2019,Scranton-Wilkes-Barre,Local,708691665,6922.4,0.1,0.3
 2019,State College-Dubois,Interstate/Freeway/Expressway,1044823085,488.448,0.7,1
 2019,State College-Dubois,Minor Arterial,376056215,583.128,0.5,0.7
 2019,State College-Dubois,Collector (Major and Minor),282915880,1607.97,0.5,0.7
-2019,State College-Dubois,Local,209758930,4635.4,0.3,0.5
+2019,State College-Dubois,Local,209758930,4635.4,0.1,0.3
 2019,Williamsport-Lock Haven,Interstate/Freeway/Expressway,308757150,162.392,0.7,1
 2019,Williamsport-Lock Haven,Minor Arterial,82059665,228.816,0.5,0.7
 2019,Williamsport-Lock Haven,Collector (Major and Minor),63295745,369.512,0.5,0.7
-2019,Williamsport-Lock Haven,Local,48311765,886.6,0.3,0.5
+2019,Williamsport-Lock Haven,Local,48311765,886.6,0.1,0.3
 2020,Allentown-Bethlehem-East Stroudsburg,Interstate/Freeway/Expressway,2768923580,833.584,0.7,1
 2020,Allentown-Bethlehem-East Stroudsburg,Minor Arterial,1065742330,1007.244,0.5,0.7
 2020,Allentown-Bethlehem-East Stroudsburg,Collector (Major and Minor),789058460,2216.084,0.5,0.7
-2020,Allentown-Bethlehem-East Stroudsburg,Local,957922060,9676,0.3,0.5
+2020,Allentown-Bethlehem-East Stroudsburg,Local,957922060,9676,0.1,0.3
 2020,Altoona-Huntingdon,Interstate/Freeway/Expressway,300546840,216.24,0.7,1
 2020,Altoona-Huntingdon,Minor Arterial,233469695,387.072,0.5,0.7
 2020,Altoona-Huntingdon,Collector (Major and Minor),218941600,1281.189,0.5,0.7
-2020,Altoona-Huntingdon,Local,161002960,3382.2,0.3,0.5
+2020,Altoona-Huntingdon,Local,161002960,3382.2,0.1,0.3
 2020,Bloomsburg-Berwick-Sunbury,Interstate/Freeway/Expressway,558163475,306.976,0.7,1
 2020,Bloomsburg-Berwick-Sunbury,Minor Arterial,427510995,729.288,0.5,0.7
 2020,Bloomsburg-Berwick-Sunbury,Collector (Major and Minor),339164205,2020.46,0.5,0.7
-2020,Bloomsburg-Berwick-Sunbury,Local,277763905,6633.8,0.3,0.5
+2020,Bloomsburg-Berwick-Sunbury,Local,277763905,6633.8,0.1,0.3
 2020,Erie-Meadville,Interstate/Freeway/Expressway,649732120,424.424,0.7,1
 2020,Erie-Meadville,Minor Arterial,591428115,1040.256,0.5,0.7
 2020,Erie-Meadville,Collector (Major and Minor),382907995,2277.834,0.5,0.7
-2020,Erie-Meadville,Local,344447945,6931.2,0.3,0.5
+2020,Erie-Meadville,Local,344447945,6931.2,0.1,0.3
 2020,Harrisburg-York-Lebanon,Interstate/Freeway/Expressway,4148362240,1267.336,0.7,1
 2020,Harrisburg-York-Lebanon,Minor Arterial,1591324080,1776.096,0.5,0.7
 2020,Harrisburg-York-Lebanon,Collector (Major and Minor),1488942675,4516.395,0.5,0.7
-2020,Harrisburg-York-Lebanon,Local,1079964555,16612,0.3,0.5
+2020,Harrisburg-York-Lebanon,Local,1079964555,16612,0.1,0.3
 2020,Johnston-Somerset,Interstate/Freeway/Expressway,617004395,457.072,0.7,1
 2020,Johnston-Somerset,Minor Arterial,246145780,561.204,0.5,0.7
 2020,Johnston-Somerset,Collector (Major and Minor),354451135,2050.1,0.5,0.7
-2020,Johnston-Somerset,Local,266708785,5430,0.3,0.5
+2020,Johnston-Somerset,Local,266708785,5430,0.1,0.3
 2020,Lancaster,Interstate/Freeway/Expressway,1258877700,362.096,0.7,1
 2020,Lancaster,Minor Arterial,879979960,733.32,0.5,0.7
 2020,Lancaster,Collector (Major and Minor),647358890,1705.782,0.5,0.7
-2020,Lancaster,Local,499064865,5512,0.3,0.5
+2020,Lancaster,Local,499064865,5512,0.1,0.3
 2020,Philadelphia,Interstate/Freeway/Expressway,7155949100,1418.28,0.7,1
 2020,Philadelphia,Minor Arterial,3187691730,2900.52,0.5,0.7
 2020,Philadelphia,Collector (Major and Minor),2126663740,4532.45,0.5,0.7
-2020,Philadelphia,Local,2053863030,22262.2,0.3,0.5
+2020,Philadelphia,Local,2053863030,22262.2,0.1,0.3
 2020,Pittsburgh,Interstate/Freeway/Expressway,5320905395,2397.72,0.7,1
 2020,Pittsburgh,Minor Arterial,3096820235,4410.756,0.5,0.7
 2020,Pittsburgh,Collector (Major and Minor),2022628885,8981.661,0.5,0.7
-2020,Pittsburgh,Local,1945333930,33697.8,0.3,0.5
+2020,Pittsburgh,Local,1945333930,33697.8,0.1,0.3
 2020,Reading,Interstate/Freeway/Expressway,1097897735,373.968,0.7,1
 2020,Reading,Minor Arterial,515966190,509.796,0.5,0.7
 2020,Reading,Collector (Major and Minor),378540770,1272.544,0.5,0.7
-2020,Reading,Local,379535395,4866.8,0.3,0.5
+2020,Reading,Local,379535395,4866.8,0.1,0.3
 2020,Scranton-Wilkes-Barre,Interstate/Freeway/Expressway,1687288420,759.808,0.7,1
 2020,Scranton-Wilkes-Barre,Minor Arterial,783708290,1056.384,0.5,0.7
 2020,Scranton-Wilkes-Barre,Collector (Major and Minor),461273130,1967.849,0.5,0.7
-2020,Scranton-Wilkes-Barre,Local,571227555,6933.6,0.3,0.5
+2020,Scranton-Wilkes-Barre,Local,571227555,6933.6,0.1,0.3
 2020,State College-Dubois,Interstate/Freeway/Expressway,879660220,488.448,0.7,1
 2020,State College-Dubois,Minor Arterial,314086515,578.592,0.5,0.7
 2020,State College-Dubois,Collector (Major and Minor),240877005,1607.97,0.5,0.7
-2020,State College-Dubois,Local,185386785,4644,0.3,0.5
+2020,State College-Dubois,Local,185386785,4644,0.1,0.3
 2020,Williamsport-Lock Haven,Interstate/Freeway/Expressway,257016575,162.392,0.7,1
 2020,Williamsport-Lock Haven,Minor Arterial,69580315,228.564,0.5,0.7
 2020,Williamsport-Lock Haven,Collector (Major and Minor),55579280,369.512,0.5,0.7
-2020,Williamsport-Lock Haven,Local,42323210,888.4,0.3,0.5
+2020,Williamsport-Lock Haven,Local,42323210,888.4,0.1,0.3
 2021,Allentown-Bethlehem-East Stroudsburg,Interstate/Freeway/Expressway,3329051120,833.584,0.7,1
 2021,Allentown-Bethlehem-East Stroudsburg,Minor Arterial,1280179465,1007.244,0.5,0.7
 2021,Allentown-Bethlehem-East Stroudsburg,Collector (Major and Minor),1005631575,2216.084,0.5,0.7
-2021,Allentown-Bethlehem-East Stroudsburg,Local,1171970105,9679,0.3,0.5
+2021,Allentown-Bethlehem-East Stroudsburg,Local,1171970105,9679,0.1,0.3
 2021,Altoona-Huntingdon,Interstate/Freeway/Expressway,391723110,216.24,0.7,1
 2021,Altoona-Huntingdon,Minor Arterial,270316080,387.072,0.5,0.7
 2021,Altoona-Huntingdon,Collector (Major and Minor),257896590,1281.189,0.5,0.7
-2021,Altoona-Huntingdon,Local,216890665,3379.6,0.3,0.5
+2021,Altoona-Huntingdon,Local,216890665,3379.6,0.1,0.3
 2021,Bloomsburg-Berwick-Sunbury,Interstate/Freeway/Expressway,668393840,306.976,0.7,1
 2021,Bloomsburg-Berwick-Sunbury,Minor Arterial,486864375,729.288,0.5,0.7
 2021,Bloomsburg-Berwick-Sunbury,Collector (Major and Minor),400727295,2020.46,0.5,0.7
-2021,Bloomsburg-Berwick-Sunbury,Local,320287135,6632.6,0.3,0.5
+2021,Bloomsburg-Berwick-Sunbury,Local,320287135,6632.6,0.1,0.3
 2021,Erie-Meadville,Interstate/Freeway/Expressway,869963265,424.424,0.7,1
 2021,Erie-Meadville,Minor Arterial,693376995,1040.256,0.5,0.7
 2021,Erie-Meadville,Collector (Major and Minor),450251590,2277.587,0.5,0.7
-2021,Erie-Meadville,Local,418704275,6927.4,0.3,0.5
+2021,Erie-Meadville,Local,418704275,6927.4,0.1,0.3
 2021,Harrisburg-York-Lebanon,Interstate/Freeway/Expressway,4883025845,1269.032,0.7,1
 2021,Harrisburg-York-Lebanon,Minor Arterial,1916345265,1774.584,0.5,0.7
 2021,Harrisburg-York-Lebanon,Collector (Major and Minor),1804315450,4516.148,0.5,0.7
-2021,Harrisburg-York-Lebanon,Local,1310283935,16633.6,0.3,0.5
+2021,Harrisburg-York-Lebanon,Local,1310283935,16633.6,0.1,0.3
 2021,Johnston-Somerset,Interstate/Freeway/Expressway,636676800,457.072,0.7,1
 2021,Johnston-Somerset,Minor Arterial,274371960,561.204,0.5,0.7
 2021,Johnston-Somerset,Collector (Major and Minor),387982590,2050.347,0.5,0.7
-2021,Johnston-Somerset,Local,287372165,5431.8,0.3,0.5
+2021,Johnston-Somerset,Local,287372165,5431.8,0.1,0.3
 2021,Lancaster,Interstate/Freeway/Expressway,1409956310,362.096,0.7,1
 2021,Lancaster,Minor Arterial,1085721700,733.824,0.5,0.7
 2021,Lancaster,Collector (Major and Minor),828125505,1705.782,0.5,0.7
-2021,Lancaster,Local,601403930,5519.2,0.3,0.5
+2021,Lancaster,Local,601403930,5519.2,0.1,0.3
 2021,Philadelphia,Interstate/Freeway/Expressway,8816854955,1418.28,0.7,1
 2021,Philadelphia,Minor Arterial,3868999635,2900.772,0.5,0.7
 2021,Philadelphia,Collector (Major and Minor),2779858615,4532.45,0.5,0.7
-2021,Philadelphia,Local,2697236485,22269.2,0.3,0.5
+2021,Philadelphia,Local,2697236485,22269.2,0.1,0.3
 2021,Pittsburgh,Interstate/Freeway/Expressway,6315997230,2397.72,0.7,1
 2021,Pittsburgh,Minor Arterial,3654156985,4422.096,0.5,0.7
 2021,Pittsburgh,Collector (Major and Minor),2462694420,8983.884,0.5,0.7
-2021,Pittsburgh,Local,2377035490,33726.4,0.3,0.5
+2021,Pittsburgh,Local,2377035490,33726.4,0.1,0.3
 2021,Reading,Interstate/Freeway/Expressway,1356172465,373.968,0.7,1
 2021,Reading,Minor Arterial,618870640,509.796,0.5,0.7
 2021,Reading,Collector (Major and Minor),463287200,1272.544,0.5,0.7
-2021,Reading,Local,484678390,4866.6,0.3,0.5
+2021,Reading,Local,484678390,4866.6,0.1,0.3
 2021,Scranton-Wilkes-Barre,Interstate/Freeway/Expressway,1979781170,759.808,0.7,1
 2021,Scranton-Wilkes-Barre,Minor Arterial,940591130,1056.384,0.5,0.7
 2021,Scranton-Wilkes-Barre,Collector (Major and Minor),547808060,1967.849,0.5,0.7
-2021,Scranton-Wilkes-Barre,Local,716922780,6944.2,0.3,0.5
+2021,Scranton-Wilkes-Barre,Local,716922780,6944.2,0.1,0.3
 2021,State College-Dubois,Interstate/Freeway/Expressway,989539090,488.448,0.7,1
 2021,State College-Dubois,Minor Arterial,370924315,583.128,0.5,0.7
 2021,State College-Dubois,Collector (Major and Minor),278455580,1611.922,0.5,0.7
-2021,State College-Dubois,Local,183918025,4649.4,0.3,0.5
+2021,State College-Dubois,Local,183918025,4649.4,0.1,0.3
 2021,Williamsport-Lock Haven,Interstate/Freeway/Expressway,287188570,162.392,0.7,1
 2021,Williamsport-Lock Haven,Minor Arterial,84727450,228.564,0.5,0.7
 2021,Williamsport-Lock Haven,Collector (Major and Minor),64018445,369.512,0.5,0.7
-2021,Williamsport-Lock Haven,Local,51466095,889.2,0.3,0.5
+2021,Williamsport-Lock Haven,Local,51466095,889.2,0.1,0.3
 2022,Allentown-Bethlehem-East Stroudsburg,Interstate/Freeway/Expressway,3338755010,833.584,0.7,1
 2022,Allentown-Bethlehem-East Stroudsburg,Minor Arterial,1256740260,1007.244,0.5,0.7
 2022,Allentown-Bethlehem-East Stroudsburg,Collector (Major and Minor),1005990735,2215.837,0.5,0.7
-2022,Allentown-Bethlehem-East Stroudsburg,Local,1183530020,9575.4,0.3,0.5
+2022,Allentown-Bethlehem-East Stroudsburg,Local,1183530020,9575.4,0.1,0.3
 2022,Altoona-Huntingdon,Interstate/Freeway/Expressway,371428015,216.24,0.7,1
 2022,Altoona-Huntingdon,Minor Arterial,275662235,387.072,0.5,0.7
 2022,Altoona-Huntingdon,Collector (Major and Minor),264029685,1281.189,0.5,0.7
-2022,Altoona-Huntingdon,Local,126713035,3511,0.3,0.5
+2022,Altoona-Huntingdon,Local,126713035,3511,0.1,0.3
 2022,Bloomsburg-Berwick-Sunbury,Interstate/Freeway/Expressway,630958710,308.248,0.7,1
 2022,Bloomsburg-Berwick-Sunbury,Minor Arterial,490652710,729.288,0.5,0.7
 2022,Bloomsburg-Berwick-Sunbury,Collector (Major and Minor),401511680,2020.46,0.5,0.7
-2022,Bloomsburg-Berwick-Sunbury,Local,243380540,6826.2,0.3,0.5
+2022,Bloomsburg-Berwick-Sunbury,Local,243380540,6826.2,0.1,0.3
 2022,Erie-Meadville,Interstate/Freeway/Expressway,812749150,424.424,0.7,1
 2022,Erie-Meadville,Minor Arterial,651570260,1040.256,0.5,0.7
 2022,Erie-Meadville,Collector (Major and Minor),428834120,2277.587,0.5,0.7
-2022,Erie-Meadville,Local,370278995,6852.8,0.3,0.5
+2022,Erie-Meadville,Local,370278995,6852.8,0.1,0.3
 2022,Harrisburg-York-Lebanon,Interstate/Freeway/Expressway,4466041085,1267.336,0.7,1
 2022,Harrisburg-York-Lebanon,Minor Arterial,1864942680,1774.332,0.5,0.7
 2022,Harrisburg-York-Lebanon,Collector (Major and Minor),1812547295,4516.148,0.5,0.7
-2022,Harrisburg-York-Lebanon,Local,1319894750,16769.2,0.3,0.5
+2022,Harrisburg-York-Lebanon,Local,1319894750,16769.2,0.1,0.3
 2022,Johnston-Somerset,Interstate/Freeway/Expressway,731022365,457.072,0.7,1
 2022,Johnston-Somerset,Minor Arterial,285307725,561.204,0.5,0.7
 2022,Johnston-Somerset,Collector (Major and Minor),391321610,2050.347,0.5,0.7
-2022,Johnston-Somerset,Local,152109370,5436.4,0.3,0.5
+2022,Johnston-Somerset,Local,152109370,5436.4,0.1,0.3
 2022,Lancaster,Interstate/Freeway/Expressway,1575188525,362.096,0.7,1
 2022,Lancaster,Minor Arterial,1018791285,734.076,0.5,0.7
 2022,Lancaster,Collector (Major and Minor),795317845,1706.029,0.5,0.7
-2022,Lancaster,Local,659000200,5524.4,0.3,0.5
+2022,Lancaster,Local,659000200,5524.4,0.1,0.3
 2022,Philadelphia,Interstate/Freeway/Expressway,8597700560,1418.28,0.7,1
 2022,Philadelphia,Minor Arterial,3819563305,2900.52,0.5,0.7
 2022,Philadelphia,Collector (Major and Minor),2732936770,4532.697,0.5,0.7
-2022,Philadelphia,Local,2793378580,22199.2,0.3,0.5
+2022,Philadelphia,Local,2793378580,22199.2,0.1,0.3
 2022,Pittsburgh,Interstate/Freeway/Expressway,6116126515,2455.384,0.7,1
 2022,Pittsburgh,Minor Arterial,3643688055,4420.08,0.5,0.7
 2022,Pittsburgh,Collector (Major and Minor),2491463720,8984.378,0.5,0.7
-2022,Pittsburgh,Local,2286024565,33468.8,0.3,0.5
+2022,Pittsburgh,Local,2286024565,33468.8,0.1,0.3
 2022,Reading,Interstate/Freeway/Expressway,1275829030,373.968,0.7,1
 2022,Reading,Minor Arterial,609302895,509.796,0.5,0.7
 2022,Reading,Collector (Major and Minor),456513895,1272.544,0.5,0.7
-2022,Reading,Local,477082010,4822.6,0.3,0.5
+2022,Reading,Local,477082010,4822.6,0.1,0.3
 2022,Scranton-Wilkes-Barre,Interstate/Freeway/Expressway,1836867610,759.808,0.7,1
 2022,Scranton-Wilkes-Barre,Minor Arterial,925322815,1056.384,0.5,0.7
 2022,Scranton-Wilkes-Barre,Collector (Major and Minor),543295200,1967.849,0.5,0.7
-2022,Scranton-Wilkes-Barre,Local,726462785,6872.8,0.3,0.5
+2022,Scranton-Wilkes-Barre,Local,726462785,6872.8,0.1,0.3
 2022,State College-Dubois,Interstate/Freeway/Expressway,852280475,488.448,0.7,1
 2022,State College-Dubois,Minor Arterial,356008955,583.128,0.5,0.7
 2022,State College-Dubois,Collector (Major and Minor),277165305,1610.934,0.5,0.7
-2022,State College-Dubois,Local,166875810,5136.6,0.3,0.5
+2022,State College-Dubois,Local,166875810,5136.6,0.1,0.3
 2022,Williamsport-Lock Haven,Interstate/Freeway/Expressway,268245070,162.392,0.7,1
 2022,Williamsport-Lock Haven,Minor Arterial,76409830,228.816,0.5,0.7
 2022,Williamsport-Lock Haven,Collector (Major and Minor),65611305,370.006,0.5,0.7
-2022,Williamsport-Lock Haven,Local,52142075,1506,0.3,0.5
+2022,Williamsport-Lock Haven,Local,52142075,1506,0.1,0.3
